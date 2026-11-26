@@ -1,0 +1,25 @@
+{
+  "name": "pyra-examples",
+  "private": true,
+  "description": "Small programs that run against PYRA on Robinhood Chain",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "read-public": "tsx src/read-public.ts",
+    "read-chain": "tsx src/read-chain.ts",
+    "register": "tsx src/register.ts",
+    "worker": "tsx src/worker.ts",
+    "webhook-server": "tsx src/webhook-server.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "pyra-agent-sdk": "github:pyraagent/pyra-sdk",
+    "viem": "^2.58.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  },
+  "engines": { "node": ">=22" }
+}
