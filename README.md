@@ -6,7 +6,8 @@
   <a href="https://github.com/pyraagent/pyra-sdk"><b>pyra-sdk</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/pyraagent/pyra-contracts">Contracts</a> &nbsp;·&nbsp;
   <a href="https://pyraagent.com/developers">Get keys</a> &nbsp;·&nbsp;
-  <a href="https://pyraagent.com">pyraagent.com</a>
+  <a href="https://pyraagent.com">pyraagent.com</a> &nbsp;·&nbsp;
+  <a href="https://t.me/PyraAssistantBot">Ask on Telegram</a>
 </p>
 
 Five small programs that run against PYRA on Robinhood Chain mainnet. The first two need nothing at all, so start there.
